@@ -9,7 +9,7 @@ Para abrir e editar este projeto, você precisa ter um Editor de Código. (Usei 
 
 Se você deseja clonar este repositório usando um terminal, digite o seguinte comando:
 
-$ git clone 
+$ git clone https://github.com/HerbertDeveloper/Projeto-Integrador-SenacRJ
 
 # Tecnologias
 
