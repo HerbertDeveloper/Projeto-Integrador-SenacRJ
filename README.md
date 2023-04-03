@@ -1,4 +1,7 @@
 # 💻 Projeto Integrador
+O projeto desenvolvido pela equipe de três pessoas, na qual eu fazia parte, foi criado para uma turma do Senac. Trata-se de um site de venda de sonhos, que oferece aos clientes a possibilidade de fazer uma compra através de WhatsApp .
+
+Veja o Site! https://projeto-sonho.000webhostapp.com/index.html
 
 # Começando
 
@@ -6,7 +9,7 @@ Para abrir e editar este projeto, você precisa ter um Editor de Código. (Usei 
 
 Se você deseja clonar este repositório usando um terminal, digite o seguinte comando:
 
-$ git clone https://danieldeveloperbr.github.io/Projeto-Integrador/
+$ git clone 
 
 # Tecnologias
 
